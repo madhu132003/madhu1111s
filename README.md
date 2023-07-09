@@ -9,3 +9,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: madhu8088933788s@oulook.com
 - ⚡ fact: passionate to learn programming 
 -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=madhu1111s&theme=dark&hide_border=true)](https://git.io/streak-stats)
