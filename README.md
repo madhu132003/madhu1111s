@@ -10,3 +10,4 @@ Here are some ideas to get you started:
 - ⚡ fact: passionate to learn programming 
 -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=madhu1111s&theme=dark&hide_border=true)](https://git.io/streak-stats)
+https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats
